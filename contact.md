@@ -11,6 +11,8 @@ Puedes asistir como invitado a varias sesiones del club hasta que estés seguro 
 
 <a href="presidencia.excelencia.tm@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>presidencia.excelencia.tm@gmail.com</a>
 
+También puedes contactarnos en nuestras redes sociales:
+
 <ul class="social-icons">
   {% if site.footer.links %}
     {% for link in site.footer.links %}
