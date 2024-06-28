@@ -4,9 +4,13 @@ title: Contacto
 ---
 
 Si quieres información o venir como invitado a una de nuestras reuniones a probar, contacta con nosotros.
+
 Puedes asistir como invitado a varias sesiones del club hasta que estés seguro de si el metodo de aprendizaje del club encaja contigo.
 
 ## Datos de Contacto
+
+<a href="presidencia.excelencia.tm@gmail.com" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i>presidencia.excelencia.tm@gmail.com</a>
+
 <ul class="social-icons">
   {% if site.footer.links %}
     {% for link in site.footer.links %}
