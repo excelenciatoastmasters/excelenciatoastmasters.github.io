@@ -4,6 +4,7 @@ title: "Conquistando el Teatro de Titeres"
 tagline: "Cerramos el año con una sesión especial en El Retiro"
 header:
   overlay_image: "https://teatrotiteresretiro.es/wp-content/uploads/2020/05/TeatroTTR-860x400.jpg"
+  teaser: "https://teatrotiteresretiro.es/wp-content/uploads/2020/05/TeatroTTR-860x400.jpg"
 ---
 
 Llega el verano y con él llegan las tan merecidas vacaciones. Como cada año, en Excelencia Toastmasters, hacemos un parón por vacaciones durante el mes de Agosto, con el objetivo de recargar pilas y volver en Septiembre llenos de energía dispuestos a afrontar nuevos retos en nuestro camino para convertirnos en mejores comunicadores y líderes.
