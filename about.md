@@ -1,3 +1,8 @@
+---
+layout: single
+title: ¿Quienes Somos?
+---
+
 # ¿Que es Toastmasters?
 
 [Toastmasters International](toastmasters.org) es una organización sin animo de lucro formada en 1924 con el objetivo de ayudar a personas de todas partes del mundo a mejorar sus habilidades de comunicación y liderazgo.
