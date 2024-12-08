@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Bienvenido a Excelencia Toastmasters
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+En esta página podrás ver como sacar partido de Easy Speak para pedir tus charlas.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+En caso de que seas un administrador, esta página podría ayudarte a entender como gestionar Easy Speak de manera más eficiente.
