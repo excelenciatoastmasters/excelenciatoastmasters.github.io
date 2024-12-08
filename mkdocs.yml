@@ -3,6 +3,8 @@ theme:
   name: material
 plugins:
   - gh-admonitions
+  - search
+  - enumerate-headings
 markdown_extensions:
   - attr_list
   - admonition
