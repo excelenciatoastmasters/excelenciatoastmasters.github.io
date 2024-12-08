@@ -182,3 +182,45 @@ Seleccionamos nuestra fecha de preferencia, primera, segunda y tercera opción, 
 ![Speech Request Button](user_guide/images/speech_date.png)
 
 Felicidades! Has pedido con éxito una nueva charla.
+
+## Eligiendo un Pathways
+
+En esta sección mostramos los distintos pathways disponibles, para que sepas elegir cual es el apropiado para ti. Los pathways disponibles son:
+
+1. Dynamic Leadership
+
+2. Engaging Humor
+
+3. Motivational Strategies
+
+4. Persuasive Influence
+
+5. Presentation Mastery
+
+6. Visionary Communication
+
+Si te interesa ver todos los pathways, incluido los antiguos, puedes verlos en la página oficial de Toastmasters, haciendo click [aquí](https://www.toastmasters.org/Education/Pathways/Pathways%20Paths%20and%20Projects)
+
+### Dynamic Leadership
+
+Este pathways se centra en mejorar las habilidades como lider estrategico. Los proyectos en este pathways se centran en entender los estilos de liderazgo y comunicación, el efecto del conflicto en el grupo y las habilidades necesarias para diluir y dirigir el conflicto. Estos proyectos también se centran en el desarrollo de estrategias para facilitar cambios en la organización, comunicación interpersonal y hablar en público.
+
+### Engaging Humor
+
+Este pathways se centra en mejorar tus habilidades humoristicas y en dar discursos más atractivos. Los proyectos en este pathways intentan entender tu estilo del humor y como ese sentido del humor se traduce en atraer al público. Los proyectos se basan en como usar de forma efectiva el sentido del humor, incluido en situaciones tensas o en charlas improvisadas.
+
+### Motivational Strategies
+
+Este pathways te ayuda a construir tus habilidades como comunicador efectivo. Los proyecto en este pathways se centra en aprender las estrategias para construir conexiones con la gente de tu alrededor, entender sus motivaciones y liderar con éxito pequeños grupos para cumplir sus tareas.
+
+### Persuasive Influence
+
+Este pathways te ayuda a construir habilidades como comunicador innovador. Los proyectos en este pathways se centran en como negociar un resultado positivo, así como construir fuertes comunicaciones interpersonales y de hablar en público. Cada proyecto se centra en construir habilidades de liderazgo para usar en situaciones complejas, y en crear soluciones innovativas a retos.
+
+### Presentation Mastery
+
+Este pathways te ayuda a construir habilidades como un habilodoso orador. Los proyectos en este pathways se centran en aprender como la audiencia responde a ti, y mejorar la conexión con la audiencia. Los proyectos se centran en entender las técnicas de hablar en público más efectivas, como escritura y exposición de discursos.
+
+### Visionary Communication
+
+Este pathways te ayuda a construir tus habilidades como comunicador estratégico y lider. Los proyectos en este pathways se centran en desarrollar tus habilidades para compartir información con un grupo, planificar las comunicaciones y crear soluciones innovativas. La escritura y exposición de discursos es enfatizada en este procesos.
