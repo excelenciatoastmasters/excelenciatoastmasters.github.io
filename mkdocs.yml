@@ -4,6 +4,7 @@ theme:
 plugins:
   - gh-admonitions
 markdown_extensions:
+  - attr_list
   - admonition
   - pymdownx.details
   - pymdownx.superfences
